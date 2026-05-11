@@ -1,6 +1,6 @@
-# Multi-Task Deep Learning for Predicting Chess Puzzle Difficulty and Tactical Pattern from Board Positions**
+# Multi-Task Deep Learning for Predicting Chess Puzzle Difficulty and Tactical Pattern from Board Positions
 
-This repository contains my final project for the course `204466 Deep Learning` at Kasetsart University.
+This repository contains my final project for the course `204466 Deep Learning` at `Kasetsart University`.
 
 ## Introduction
 
